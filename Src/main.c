@@ -45,6 +45,7 @@
 #include "stm32f1xx_hal.h"
 #include "cmsis_os.h"
 
+
 /* USER CODE BEGIN Includes */
 #include <stdlib.h>
 #include <stdio.h> /* for printf */
